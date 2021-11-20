@@ -49,4 +49,4 @@ $route
     ->get('/usuario/salvar', 'App\Controller\UserController:store');
 ```
 
-Para usar rotas no projeto é obrigatório o uso de um controlador, o manual sobre os controladores estão nesse link: [Controladores.](https://github.com/WeslleyRAraujo/afterimage-doc/Controllers.md)
+Para usar rotas no projeto é obrigatório o uso de um controlador, o manual sobre os controladores estão nesse link: [Controladores.](https://github.com/WeslleyRAraujo/afterimage-doc/blob/main/Controllers.md)
