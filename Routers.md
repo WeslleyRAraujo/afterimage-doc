@@ -1,4 +1,4 @@
-# ROTAS - Afterimage
+# Rotas - Afterimage
 
 Como posso definir e executar rotas no meu projeto?
 - As rotas são definidas no arquivo **/public/index.php**;
