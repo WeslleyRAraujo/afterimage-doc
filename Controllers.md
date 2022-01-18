@@ -25,6 +25,7 @@ class HomeController // nome do controller
     // exibe um json
     public function json()
     {
+        header('Content-type: application/json');
         echo json_encode([
                 'message' => 'Thanks!!!!',
                 'github' => 'WeslleyRAraujo'
